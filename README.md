@@ -42,7 +42,7 @@ This Power BI dashboard provides insights into restaurant data from **Swiggy**, 
 
 Preview the dashboard as a static image:
 
-![Swiggy Dashboard](./Swiggy_PowerBi_Dashboard/Swiggy_Single_Dashboard.png)
+![Swiggy Dashboard](C:\Users\CHANDUPOLOJU\Documents\GitHub\Swiggy_PowerBi_Dashboard\Swiggy_Single_Dashboard.png)
 
 ---
 
